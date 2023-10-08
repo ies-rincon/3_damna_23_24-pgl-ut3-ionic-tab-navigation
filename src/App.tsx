@@ -33,7 +33,7 @@ import "@ionic/react/css/display.css";
 
 /* Theme variables */
 import "./theme/variables.css";
-import "./styles/app.css";
+import "./styles/App.css";
 
 setupIonicReact();
 
